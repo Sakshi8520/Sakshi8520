@@ -8,7 +8,9 @@ Backend Developer • Python • Flask • PostgreSQL
 </h3>
 
 I'm focused on building backend systems and understanding how they work under the hood — from authentication and database transactions to testing and production deployment.
-</p>---
+</p>
+
+---
 
 Featured Project
 
