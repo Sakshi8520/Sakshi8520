@@ -18,6 +18,7 @@ Featured Project
   A production-oriented Flask backend built around real-world backend concepts.
 </p><p align="center">
   <a href="https://github.com/Sakshi8520/Candy-Vending-Machine">
+    <img src="https://github.com/Sakshi8520/Candy-Vending-Machine/actions/workflows/tests.yml/badge.svg" alt="Tests">
     <img src="https://img.shields.io/badge/View%20Project-Candy%20Vending%20Machine-181717?style=for-the-badge&logo=github" alt="View Candy Vending Machine API">
   </a>
 </p>What I've worked with
