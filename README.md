@@ -21,6 +21,9 @@ Featured Project
     <img src="https://github.com/Sakshi8520/Candy-Vending-Machine/actions/workflows/tests.yml/badge.svg" alt="Tests">
     <img src="https://img.shields.io/badge/View%20Project-Candy%20Vending%20Machine-181717?style=for-the-badge&logo=github" alt="View Candy Vending Machine API">
   </a>
+  <p align="center">
+    <p> Try the deployed application- Candy Vending Machine Live - https://candy-vending-machine.onrender.com
+    </p>
 </p>What I've worked with
 
 - JWT authentication and authorization
