@@ -24,6 +24,8 @@ Featured Project
   <p align="center">
     <p> Try the deployed application- Candy Vending Machine Live - https://candy-vending-machine.onrender.com
     </p>
+<p> Note:- This might be slow 
+</p>
 </p>What I've worked with
 
 - JWT authentication and authorization
